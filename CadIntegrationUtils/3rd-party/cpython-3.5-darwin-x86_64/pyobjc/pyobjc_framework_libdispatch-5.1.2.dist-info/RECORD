@@ -1,0 +1,11 @@
+libdispatch/__init__.py,sha256=3pFWTlgbze2ov8oBmkXFBmKOeJRkBR9UN4xdotQlHBQ,780
+libdispatch/__pycache__/__init__.cpython-35.pyc,,
+libdispatch/__pycache__/_metadata.cpython-35.pyc,,
+libdispatch/_inlines.cpython-35m-darwin.so,sha256=Nd1mDjzPLcfPa_7XFDAlU4aw42cM3wLP8nAfbwn3qBw,29988
+libdispatch/_libdispatch.cpython-35m-darwin.so,sha256=i-vNM1aXy2eknDLzm6pkXdDGkBd28NStBEeq4YVgSKI,45504
+libdispatch/_metadata.py,sha256=VQzRx6QFig_LcdaD5A8BW3rukBKI7U16-uH9qco8Dh0,12777
+pyobjc_framework_libdispatch-5.1.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyobjc_framework_libdispatch-5.1.2.dist-info/METADATA,sha256=n-sFwYEy4GUtU0zjwOrbITgPuwvxZGGq4oPr6luJKzg,2098
+pyobjc_framework_libdispatch-5.1.2.dist-info/RECORD,,
+pyobjc_framework_libdispatch-5.1.2.dist-info/WHEEL,sha256=7tTRuDz6e4JNp58MBKOqUbiiZda-Ttisi5nCqkhJdHo,109
+pyobjc_framework_libdispatch-5.1.2.dist-info/top_level.txt,sha256=acyvxw3zEzXzfk9gVKXenaPAJF1MlJlQYiQEwKqvlM4,12

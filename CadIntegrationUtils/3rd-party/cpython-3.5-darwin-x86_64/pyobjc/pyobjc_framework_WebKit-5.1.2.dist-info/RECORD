@@ -1,0 +1,17 @@
+JavaScriptCore/__init__.py,sha256=yxi8VCCnfk898CwBqJ7za_FeolqRFCNs30rzFhFmek4,817
+JavaScriptCore/__pycache__/__init__.cpython-35.pyc,,
+JavaScriptCore/__pycache__/_metadata.cpython-35.pyc,,
+JavaScriptCore/__pycache__/_util.cpython-35.pyc,,
+JavaScriptCore/_metadata.py,sha256=jrGcINE4GW2tqZtFN2PplZHeElhYkJokQI18fQ9PSB8,16019
+JavaScriptCore/_util.py,sha256=OjQBkilE34_gUNldWJyh5Xi5AB9MmF2Iug_tmxuJ8XA,737
+WebKit/_WebKit.cpython-35m-darwin.so,sha256=CEtNYC0phc2O4MphZVkjvDnOQx1ZGGYvBBEW_Q8tu5o,63516
+WebKit/__init__.py,sha256=YaCslp_37NJdetmfmw_bwQaQQ9aQSkiKLBEl9Mj6fns,761
+WebKit/__pycache__/__init__.cpython-35.pyc,,
+WebKit/__pycache__/_metadata.cpython-35.pyc,,
+WebKit/_metadata.py,sha256=wndTUKZlAdxyVqCdnI6DhLKMD_YVTZ8B-62UxHv_sxg,68749
+pyobjc_framework_WebKit-5.1.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyobjc_framework_WebKit-5.1.2.dist-info/LICENSE.txt,sha256=jEKDB2gUwQLjr3474E6V5fvLLicaUzhuG5CTLMEE_uc,1249
+pyobjc_framework_WebKit-5.1.2.dist-info/METADATA,sha256=a6w7fLdafbskgTIt0L_lDz34QeRKegzl4up5WJBT1HA,2319
+pyobjc_framework_WebKit-5.1.2.dist-info/RECORD,,
+pyobjc_framework_WebKit-5.1.2.dist-info/WHEEL,sha256=7tTRuDz6e4JNp58MBKOqUbiiZda-Ttisi5nCqkhJdHo,109
+pyobjc_framework_WebKit-5.1.2.dist-info/top_level.txt,sha256=rpU7x31arX71utmEFWwLKLiKAUMPqy6Wiktahg_HAW0,22

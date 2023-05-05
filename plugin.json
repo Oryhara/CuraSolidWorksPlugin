@@ -1,0 +1,21 @@
+{
+    "name": "3DS SolidWorks Integration",
+    "id": "CuraSolidWorksPlugin",
+    "author": "Thomas Karl Pietrowski",
+    "email": "thopiekar@gmail.com",
+    "website": "https://thopiekar.eu/cura/plugins/cad/solidworks/",
+    "version": "0.6.1",
+    "supported_os": [
+        "Windows"
+    ],
+    "description": "Gives you the possibility to open certain files using SolidWorks itself. Conversion of the file formats and additional optimizations are done by this plugin.",
+    "supported_sdk_versions": [
+        "5.0.0",
+        "6.0.0",
+        "6.1.0",
+        "7.0.0",
+        "8.0.0"
+    ],
+    "api": 5,
+    "i18n-catalog": "CuraSolidWorksPlugin"
+}

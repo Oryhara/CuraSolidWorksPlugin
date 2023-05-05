@@ -1,0 +1,11 @@
+CoreBluetooth/_CoreBluetooth.cpython-35m-darwin.so,sha256=10CxA1eUBuKcWD2ovj6wXRHlw21_Dw-Xz8ygQLLXllA,38548
+CoreBluetooth/__init__.py,sha256=mzwpJZnG4I4utNe9nT9ilQ0fYyI-ttYVJaGqrOpzzCs,778
+CoreBluetooth/__pycache__/__init__.cpython-35.pyc,,
+CoreBluetooth/__pycache__/_metadata.cpython-35.pyc,,
+CoreBluetooth/_metadata.py,sha256=R5lma02sXgN-31x-p_hzKH2RcaX3lZnoPOG6QQt1Teg,11513
+pyobjc_framework_CoreBluetooth-5.1.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyobjc_framework_CoreBluetooth-5.1.2.dist-info/LICENSE.txt,sha256=jEKDB2gUwQLjr3474E6V5fvLLicaUzhuG5CTLMEE_uc,1249
+pyobjc_framework_CoreBluetooth-5.1.2.dist-info/METADATA,sha256=9Tg6h9aLWET2FHi6LPiy_FnpbCB0EeyPVvUeSWJbbsM,2168
+pyobjc_framework_CoreBluetooth-5.1.2.dist-info/RECORD,,
+pyobjc_framework_CoreBluetooth-5.1.2.dist-info/WHEEL,sha256=7tTRuDz6e4JNp58MBKOqUbiiZda-Ttisi5nCqkhJdHo,109
+pyobjc_framework_CoreBluetooth-5.1.2.dist-info/top_level.txt,sha256=mrd_Sh1JLPW4g_20hfpKNneNXo-XHeaIG4n0zAvaIP0,14
